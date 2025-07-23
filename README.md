@@ -4,18 +4,6 @@
 
 ---
 
-### 🧠 What I’ve Been Building (2016–2025)
-
-- 🔐 Built systems for **Digital ID**, **On-Premise Digital Signatures**, and **OAuth2 Login (OIDC)** used by 5+ enterprise clients.
-- 📲 Boosted mobile app user growth by 100% with feature revamps and better user experience.
-- 🧪 Developed **Liveness Anti-Spoofing Detection** using CNN, CDCN, and PRNet in Python.
-- 📊 Created dashboards and BDD automation tests that reduced manual QA by 50%.
-- ☁️ Reduced cloud infra cost by 30% and monitoring tool cost by 60%.
-- 📦 Architected real-time systems with **Golang**, **gRPC**, **RabbitMQ**, and **WebSocket**.
-- 📡 Implemented IoT-based city lighting and energy monitoring systems using STM32.
-
----
-
 ### 🔧 Tech Stack
 
 - **Languages**: Go, Python, Kotlin, Swift, Dart, JavaScript  
