@@ -6,10 +6,10 @@
 
 ### 🔧 Tech Stack
 
-- **Languages**: Go, Python, Kotlin, Swift, Dart, JavaScript  
+- **Languages**: Go, Python, JavaScript  
 - **AI/ML**: TensorFlow, CNN, CDCN, PRNet  
 - **Infra**: Kubernetes, Google Cloud, Pub/Sub, RabbitMQ, Docker, PostgreSQL, Firestore  
-- **Frontend**: Nuxt.js, Flutter, Android Native  
+- **Frontend**: Nuxt.js, Next.js 
 - **Communication**: gRPC, WebSocket, REST  
 - **Testing**: BDD with Gherkin & pytest-bdd  
 - **Monitoring**: Custom Jira Gadgets, Dashboard Monitoring  
