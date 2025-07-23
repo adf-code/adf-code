@@ -1,42 +1,49 @@
 # 👋 Hi, I’m Arief
 
-🎯 I build impactful tech products with a strong focus on **Digital Identity**, **Liveness Anti-Spoofing**, and **Secure Cloud Systems** — and I learn a lot from open source.
+I enjoy building things that work at scale — especially in **digital identity**, **mobile apps**, and **liveness anti-spoofing**.  
+Along the way, I’ve learned a lot from open source, and I try to give back whenever I can.
 
 ---
 
-### 🔧 Tech Stack
+### 🧩 What I Work On
 
-- **Languages**: Go, Python, JavaScript  
-- **AI/ML**: TensorFlow, CNN, CDCN, PRNet  
-- **Infra**: Kubernetes, Google Cloud, Pub/Sub, RabbitMQ, Docker, PostgreSQL, Firestore  
+- Helping improve digital onboarding experiences — from mobile login to fraud detection.
+- Building backend systems using **Go**, **Python**, **gRPC**, **RabbitMQ**, and **PostgreSQL**.
+- Exploring face anti-spoofing models like **CNN**, **CDCN**, and **PRNet**.
+- Leading technical improvements that save cloud costs and simplify testing with **BDD**.
+
+---
+
+### 🛠️ Tools & Technologies
+
+- **Backend**: Golang, Python, gRPC, WebSocket, RabbitMQ  
+- **AI/ML**: TensorFlow, PRNet, CDCN, Liveness Detection  
 - **Frontend**: Nuxt.js, Next.js 
-- **Communication**: gRPC, WebSocket, REST  
-- **Testing**: BDD with Gherkin & pytest-bdd  
-- **Monitoring**: Custom Jira Gadgets, Dashboard Monitoring  
+- **Infra**: Kubernetes, Docker, GCP, Firestore, PostgreSQL  
+- **Automation**: pytest-bdd, Gherkin, CI/CD pipelines  
+- **Monitoring**: Jira Dashboards, Custom Gadgets  
 
 ---
 
-### 🔍 I Love Doing Research With
+### 🔍 Things I Explore in My Free Time
 
-I love learning from and experimenting with research-based open source projects, especially in the area of **face anti-spoofing** and **3D face modeling**. A few projects I admire and explore:
+I like tinkering with open source projects that mix research and real-world usage, especially around face and depth modeling.
 
-| Project | Description |
-|--------|-------------|
-| [PRNet](https://github.com/yfeng95/PRNet) | Deep 3D Face Reconstruction |
-| [CDCN](https://github.com/ZitongYu/CDCN) | Central Difference Convolution for Anti-Spoofing |
-| [Face Anti-Spoofing Papers](https://github.com/ZitongYu/Face-Anti-Spoofing.Papers) | Great resource for staying up to date on liveness detection |
-
----
-
-### 🌱 Currently Learning & Exploring
-
-- 🔍 Enhancing real-time **anti-spoofing** for mobile devices  
-- 🧠 Exploring **Transformer-based face recognition** and depth-based spoof detection  
-- ⚙️ Improving **cloud-native performance** and **infra observability**  
+| Project | What I Like About It |
+|--------|----------------------|
+| [PRNet](https://github.com/yfeng95/PRNet) | Fun way to learn about 3D face reconstruction |
+| [CDCN](https://github.com/ZitongYu/CDCN) | Great intro to depth-aware liveness detection |
+| [Face Anti-Spoofing Papers](https://github.com/ZitongYu/Face-Anti-Spoofing.Papers) | Useful collection of ideas and references |
 
 ---
 
-### 🤝 Let's Connect
+### 💬 A Bit More About Me
 
-I'm always open to collaborate or contribute to research-inspired projects. Feel free to reach out or star my repos!
+- I started with IoT projects and gradually moved into web, mobile, and cloud systems.
+- I’ve helped scale apps to hundreds of thousands of users.
+- I enjoy simplifying complex systems and learning by doing.
 
+---
+
+Thanks for visiting my profile 😊  
+Feel free to check out my repos or connect if you’re working on something similar!
